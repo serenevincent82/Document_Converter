@@ -49,7 +49,7 @@ You can host this web app publicly for **\$0** using GitHub and Streamlit Commun
    * Click **Create app** → **Yep, I have an app**.
    * Select your repository, set **Main file path** to `app.py`, and click **Deploy**.
 3. **Share Your Link:**
-   * Streamlit automatically installs Python libraries (`requirements.txt`) alongside LibreOffice and Calibre (`packages.txt`) and generates a shareable public URL.
+   * Streamlit automatically installs Python libraries (`requirements.txt`) alongside LibreOffice and Calibre (`packages.txt`) and generates a shareable public URL.[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-name.streamlit.app)
 
 ---
 
